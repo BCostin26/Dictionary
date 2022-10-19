@@ -1,5 +1,6 @@
 let dictionary = new Map();
 let aux = 1;
+
 function addWord() {
     let inputWord = document.getElementById("inputWord").value;
     if (!dictionary.has(inputWord)) {
