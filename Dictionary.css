@@ -1,0 +1,45 @@
+.title {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.book {
+    width: 200px;
+    height: 100px;
+}
+
+body {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.buttons {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.addWord {
+    height: 35px;
+    cursor: pointer;
+    border-radius: 8px;
+    padding-right: 18px;
+}
+
+.searchWord {
+    text-align: center;
+    height: 35px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.deleteWord {
+    align-self: center;
+    border-radius: 8px;
+    height: 35px;
+    cursor: pointer;
+}
